@@ -19,6 +19,7 @@ header .titulo {
     font-family: 'Poppins';
     font-weight: bolder;
     color: #FFF;
+    text-align: center;
 }
 
 main {
