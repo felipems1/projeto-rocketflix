@@ -9,7 +9,7 @@
 ## 🔖 Layout
 
 <p align="center">
-  <video src="https://user-images.githubusercontent.com/111329429/195912762-102a1c9b-8d2a-4715-9d04-ffceabec8b37.mp4">
+  <video src="https://user-images.githubusercontent.com/111329429/209552139-f7d4482c-68c8-4cd4-b682-3424ca7f9be3.mp4">
 </p>
 
 ## 🚀 Tecnologias
@@ -22,8 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Consumindo uma API de filmes, é gerando um filme aleatório ao clicar no botão.
+Gerador de filme aleatório.
 
 ---
 
-[Link do meu perfil no Linkedin.](https://www.linkedin.com/in/felipe-moises-4a1b58248/) 
+[Link do meu perfil no Linkedin.](https://www.linkedin.com/in/felipe-moises-4a1b58248/)
